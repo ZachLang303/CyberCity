@@ -11,7 +11,8 @@
         <div>
             <asp:Label ID="lblLogin" runat="server" Text="Welcome to Cyber City!"></asp:Label>
             <asp:Label ID="Label1" runat="server" Text="Seems to be working"></asp:Label>
-            <asp:Label ID="Label2" runat="server" Text="Test Push From not running file"></asp:Label>
+            <br />
+            <asp:Label ID="Label2" runat="server" Text="Brian's latest push"></asp:Label>
         </div>
         <p>
             &nbsp;</p>
